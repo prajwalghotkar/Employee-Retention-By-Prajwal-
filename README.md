@@ -3,9 +3,9 @@
 **Employee retention is a critical challenge for modern organizations, impacting both financial sustainability and workplace productivity. Recruiting and training new hires are expensive and time-consuming processes—companies often spend 15–20% of an employee’s salary on recruitment, plus experience revenue loss while new hires ramp up.**
 ---
 ##### Project Overview
-- **Business Challenge**:High employee turnover leads to increased costs, knowledge loss, and operational disruption. Predicting which employees are likely to leave allows proactive retention strategies and cost savings.
+- **Business Challenge**: High employee turnover leads to increased costs, knowledge loss, and operational disruption. Predicting which employees are likely to leave allows proactive retention strategies and cost savings.
 
-- **Role of Prajwal**:As a data scientist at a multinational corporation, Prajwal was tasked by the HR team to develop a predictive model that can identify employees at risk of quitting, enabling targeted interventions.
+- **Role of Prajwal**: As a data scientist at a multinational corporation, Prajwal was tasked by the HR team to develop a predictive model that can identify employees at risk of quitting, enabling targeted interventions.
 
 ---
 
